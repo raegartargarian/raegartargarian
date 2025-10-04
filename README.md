@@ -121,17 +121,6 @@ High-performance cryptocurrency trading platform with real-time order matching a
 **Impact:** 20% traffic increase, 10% conversion improvement, helped secure $500K funding  
 Middle East's largest online marketplace - serving millions of users with optimized performance and SEO
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raegartargarian&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raegartargarian&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raegartargarian&theme=radical&hide_border=true)
-
-</div>
 
 ## 🏆 Achievements & Impact
 
